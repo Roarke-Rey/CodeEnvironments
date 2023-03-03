@@ -2,3 +2,8 @@
 Total source code lines in merged hello.py = 2
 Total lines of comments in main branch = 1
 Total lines of codes in my branch = 1
+
+# Jelson
+Total source code lines in hello.py = 1
+Total lines of comments in main branch = 1
+Total lines of codes in my branch = 1
